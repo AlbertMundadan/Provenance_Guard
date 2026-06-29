@@ -1,0 +1,5 @@
+.env
+.venv
+.venvScriptsactivate
+*.db
+__pycache__/
